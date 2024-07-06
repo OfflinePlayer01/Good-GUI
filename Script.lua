@@ -4858,7 +4858,7 @@ coroutine.wrap(NIYLZA_fake_script)()
 local function KQEL_fake_script() -- Text.LocalScript 
 	local script = Instance.new('LocalScript', Text)
 
-	script.Parent.Text = "Enhoy Using Script!"
+	script.Parent.Text = "Discord : _offlineplayer_ | Enjoy Using Script!"
 end
 coroutine.wrap(KQEL_fake_script)()
 local function EJUCANX_fake_script() -- CloseOpen.LocalScript 
@@ -4925,7 +4925,7 @@ local function LAUV_fake_script() -- c00lguiFE.LocalScript
 	game:GetService("StarterGui"):SetCore("SendNotification", {
 		Title = "Scripts credits",
 		Text = "Credits : _offlineplayer_",
-		Icon = "rbxthumb://type=Asset&id=18365876882&w=150&h=150",
+		Icon = "rbxthumb://type=Asset&id=18365836734&w=150&h=150",
 		Duration = math.huge,
 		Button1 = "Ok",
 	})
