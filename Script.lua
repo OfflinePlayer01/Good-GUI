@@ -1043,7 +1043,7 @@ local function YJSF_fake_script() -- breakchat.LocalScript
 		local hint = Instance.new("Hint", workspace)
 		local count = 60
 		repeat
-			hint.Text = "Estimated time remaining until chat is deleted: "..math.floor(count*2.5).." seconds"
+			hint.Text = "Estimated Time Remaining Until Chat Is Deleted: "..math.floor(count*2.5).." seconds"
 			wait(2.5)
 			count = count - 1
 			game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(" ", "All")
